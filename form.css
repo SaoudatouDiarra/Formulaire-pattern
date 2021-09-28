@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(255, 120, 0);
+    text-align: center;
+    text-decoration: none;
+    color : white;
+}
+
+
+input:valid
+{
+    background-color: green;
+
+}
+.connexion {
+    background-color:black ;
+    border-radius: 50%;
+    text-align: center;
+    margin: 20%;
+
+}
